@@ -1,0 +1,10 @@
+D:\Programmer\Visual Studio\C#\lab3_IM\lab3_IM\obj\Debug\lab3_IM.csproj.AssemblyReference.cache
+D:\Programmer\Visual Studio\C#\lab3_IM\lab3_IM\obj\Debug\lab3_IM.Form1.resources
+D:\Programmer\Visual Studio\C#\lab3_IM\lab3_IM\obj\Debug\lab3_IM.Properties.Resources.resources
+D:\Programmer\Visual Studio\C#\lab3_IM\lab3_IM\obj\Debug\lab3_IM.csproj.GenerateResource.cache
+D:\Programmer\Visual Studio\C#\lab3_IM\lab3_IM\obj\Debug\lab3_IM.csproj.CoreCompileInputs.cache
+D:\Programmer\Visual Studio\C#\lab3_IM\lab3_IM\bin\Debug\lab3_IM.exe.config
+D:\Programmer\Visual Studio\C#\lab3_IM\lab3_IM\bin\Debug\lab3_IM.exe
+D:\Programmer\Visual Studio\C#\lab3_IM\lab3_IM\bin\Debug\lab3_IM.pdb
+D:\Programmer\Visual Studio\C#\lab3_IM\lab3_IM\obj\Debug\lab3_IM.exe
+D:\Programmer\Visual Studio\C#\lab3_IM\lab3_IM\obj\Debug\lab3_IM.pdb
